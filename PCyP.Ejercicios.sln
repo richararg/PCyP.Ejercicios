@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase3.Colecciones.Dicciona
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase3.Colecciones.Listas", "Clase3.Colecciones.Listas\Clase3.Colecciones.Listas.csproj", "{F35E89E1-B32D-4935-9A7F-1D27B8C164ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase3.Colecciones.Texto", "Clase3.Colecciones.Texto\Clase3.Colecciones.Texto.csproj", "{348146ED-707D-48B4-9A5D-DA64A8279D1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F35E89E1-B32D-4935-9A7F-1D27B8C164ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F35E89E1-B32D-4935-9A7F-1D27B8C164ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F35E89E1-B32D-4935-9A7F-1D27B8C164ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{348146ED-707D-48B4-9A5D-DA64A8279D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348146ED-707D-48B4-9A5D-DA64A8279D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348146ED-707D-48B4-9A5D-DA64A8279D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348146ED-707D-48B4-9A5D-DA64A8279D1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
